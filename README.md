@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/Allavezz/FrontEndMentor-QRcode/tree/main)
+- Solution URL: (https://www.frontendmentor.io/solutions/qrcodecomponent-desktop-design-using-html-and-css-H1SaDS9zrs)
 - Live Site URL: (https://https://allavezz.github.io/FrontEndMentor-QRcode/)
 
 ## My process
